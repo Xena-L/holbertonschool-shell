@@ -1,2 +1,4 @@
-#!/bin/bash
+0
+echo $PATH | tr : n | grep -v ^ | wc -l
+0
 ls -l | grep ^d | wc -l
